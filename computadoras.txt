@@ -1,0 +1,12 @@
+Windows
+530S
+i7
+7
+Linux Mint
+HP
+i5
+32
+macOS
+Retina
+i7
+16
