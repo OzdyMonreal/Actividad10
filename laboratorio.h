@@ -12,6 +12,7 @@ public:
   void agregarFinal(const Computadora &c);
   void mostrar();
   void respaldar();
+  void recuperar();
 
   friend Laboratorio& operator<<(Laboratorio &l, const Computadora &c) {
     l.agregarFinal(c);
